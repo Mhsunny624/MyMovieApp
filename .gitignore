@@ -1,0 +1,33 @@
+# Gradle / Android Studio
+.gradle/
+.idea/
+.kotlin/
+build/
+*/build/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing keys and secrets
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Logs and scratch files
+*.log
+t.txt
+tvlog.txt
+
+# Personal library data exported from Stash (names, photos) - never publish
+stash_export/
+tools/
+MyMovieApp_stash/
+
+# OS
+.DS_Store
+Thumbs.db
+# Dev screenshots
+app/shots/
